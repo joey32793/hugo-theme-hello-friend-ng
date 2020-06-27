@@ -330,3 +330,9 @@ hr {
 	text-decoration: none;
 	z-index: 100000;
 }
+
+img:not(.post-cover) {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
